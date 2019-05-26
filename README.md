@@ -11,6 +11,7 @@ Basta importar dentro do código html e usar as classes nos inputs para formatar
 basta inserir na dentro de class="(opções abaixo)"
 
 ## Opções
+```bash
 date = 00/00/0000
 date_time = 00/00/0000 00:00:00
 cep 00000-000
@@ -24,6 +25,7 @@ selectonfocus = 00/00/0000 (select all after enter)
 cnpj = 00.000.000/0000-00 ( MODE RTL 'right to left' )
 cpf = 000.000.000-00 ( MODE RTL 'right to left' )
 money = #.##0,00 ( MODE RTL 'right to left' )
+```
 
 ## Contribuição
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
