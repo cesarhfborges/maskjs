@@ -28,4 +28,4 @@ money = #.##0,00 ( MODE RTL 'right to left' )
 ```
 
 ## Contribuição
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull Requests são bem-vindos. Para mudanças importantes, por favor, relate o problema primeiro para discutir o que você gostaria de mudar ou informar.
